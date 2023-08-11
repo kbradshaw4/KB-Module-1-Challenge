@@ -5,7 +5,7 @@
 This webpage was created to allow potential clients of Horiseon to check out their services and read more about the company.
 
 ## Link
-[Kevin's Module 1 Challenge] (https://kbradshaw4.github.io/KB-Module-1-Challenge/)
+[Kevin's Module 1 Challenge](https://kbradshaw4.github.io/KB-Module-1-Challenge/)
 
 ## Screenshot 
 ![Screenshot of Horiseon Webpage](./assets/images/Screenshot%202023-08-10%20at%209.39.29%20PM.png)
